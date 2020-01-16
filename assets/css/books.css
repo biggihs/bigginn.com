@@ -1,0 +1,29 @@
+.books {
+  margin-left: 25px;
+}
+
+
+.books .book .author {
+  display:inline-block;
+  margin-left: 20px;
+}
+
+.books .book .author .name {
+  /* font-weight: bold;  */
+  color:black !important;
+}
+
+.books .book .author .name a {
+  color:black !important;
+  font-weight: bold;
+}
+
+.books .book .author .amazon img{
+  display: inline-block;
+  margin: 0px;
+}
+
+.books .book span{
+  float: left;
+  padding-left:4px
+}

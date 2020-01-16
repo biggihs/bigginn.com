@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div>
+  {{ content }}
+</div>
+
+<h3>Bækurnar</h3>
+
+<div class="books">
+  {% assign books = site.books | reverse %}
+  {% for book in books %}
+    {% if book.title != 'Index' %}
+    <div class="book">
+      <span class="name">
+        <strong>
+          <a href="{{ book.url }}"> {{ book.title }} </a>
+        </strong>
+      </span>
+      <br/>
+      <div class="author">
+        <span> - eftir </span>
+        <span class="name">
+          {% if book.author_link %}
+          <a target="_blank" href="{{ book.author_link }}">
+            {{ book.author }}
+          </a>
+          {% else %}
+            {{ book.author }}
+          {% endif %}
+        </span>
+        {% if book.amazon_link %}
+        <span class="amazon">
+          <a target="_blank" href="{{ book.amazon_link }}">
+            <img src="/assets/images/amazon.15x.png" />
+          </a>
+        </span>
+        {% endif %}
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
