@@ -41,7 +41,7 @@ Hann skelfur af hræðslu á meðan hann brunar heim á leið. Til að byrja me�
 
 Vampírurnar rústa öllu í bílskúrnum hanns og bílnum hanns. Rafmagnið er farið af húsinu.
 
-# Mars 1976
+# Annar hluti: Mars 1976
 
 ## Sjötti kafli
 12 jan 2020
@@ -78,4 +78,39 @@ Tveir dagar líða og Neville sér engann tilgang í lífinu. Hann sér allt í 
 
 Hann er búinn að læra um "lymphatic"-kerfið. (sem sér um að flytja til og frá blóðinu???). Hann spáir í því hvort gerlar geti haft eitthvað með dreifingu á þessum vampírusjúkdóm. En það gengur ekki allt upp, því afhverju virka þá bara viðarstjakar og afhverju eru þær hræddar við krossa. Hann ákveður að hunsa það svo hann geti haldið áfram að vinna í "lymphatic"-/-gerla tilgátunni sinni. Hann neyðir sjálfan sig til svefns þó hann vilji halda áfram en svo vaknar hann klukkan þrjú um nóttina, það er brjálaður sandstormur fyrir utan, hann var búinn að fatta "tenginguna". (Ég veit ekki hvaða tenginu, líklegast milli vampíranna og gerla tilgátunnar)
 
-  
+## Ellefti kafli
+27 jan 2020
+
+Neville fer í vísindagír, hann verður sér út um góðan smásjá og leggur á sig að læra á hann til að finna út úr því hvort vampírurnar séu í raun og veru með geril í sér. Það tekur óra tilraunir en það reynist raunin. Neville nefnir gerilinn Bacallium Vampiris. Hann verður þunglindur við Tilhugsunina að hann hafi uppgötvað þetta of seint því nú þegar séu allir með þennan sýkil.
+
+Neville les bækur um sýkla og það er útskýrt (sem samtal Neville's við sjálfan sig) að sýklar geta tekið sér mismunandi form eftir því hvort það sé nægilegt magn af næringu í umhverfi sýkilsins eða ekki. Það er gert til að útskýra afhverju vampírunar eru ekki hindurvitni. Hann er alltaf að reyna að skilja afhverju vampírurnar eru eins og þær eru en hindurvitni er ekki nægileg útskýring fyrir hann.
+
+## Tólfti kafli
+27 jan 2020
+
+Meiri vísindi. Hann sprautar sýkt blóð með "allyl sulphide", sem er aðal efnið úr hvítlauk, en það hafði engin áhrif. Afhverju forðast vampírurnar hvítlauk, hugsar hann með sér.
+
+Hann veit að vampírurnar eru með sýkil, sem er smitandi, sólarljós drepur sýkilinn, laukur hefur áhrif. Það getur hann útskýrt. En afhverju sofa sumar vampírur í mold, afhverju forðast þær spegla eða rennandi vatn. Afhverju eru sumar hræddar við krossinn. Ekkert af þessu meikar sense, hann verður brjálaður út í sjálfann sig fyrir að geta ekki fundið út úr þessu og fer á bender.
+
+Hann hefði drukkið sig til bana ef það hefði ekki verið fyrir hund. Það var hundur í garðinum hjá honum. Um leið og hundurinn tekur eftir honum þá flýr hann. Neville hleypur, þunnur eins og andskotinn, a eftir honum en hann hverfur fyrir horn.
+
+Hann gat ekki hugsað um neitt annað en hundinn.
+
+## Þrettándi kafli
+27 jan 2020
+
+Neville setur mat út í garð fyrir hundinn á hverjum degi. Hundurinn kemur daglega og Neville reynir að færa sig nær og nær hundinum. Hægt og rólega kemst hann alveg upp að honum en hann veit að hann getur ekki snert hundinn því þá mun hundurinn flýja. Hann talar við hundinn svo hundurinn gæti vanist hljóðunum í honum.
+
+Einn dag kemur hundurinn ekki. Neville panikkar og reynir að finna hundinn en hann er hvergi. Nokkrum dögum síðar sér hann að maturinn er horfinn. Hann sér hundinn særðann í fjarska og eltir hann og sér að hundurinn býr í holu undir húsi. Hann reynir að ná til hanns í holuna en það gengur ekki. Nokkrum dögum síðar kemur hundurinn aftur, næstum örmagna og reynir að ná í mat í garðinum og Neville nær hundinum og kemur honum inn í hús. Hundurinn er afar hræddur en Neville nær að róa hann niður. Hundurinn er með sýkilinn og deyr viku síðar.
+
+## Fjórtándi kafli
+27 jan 2020
+
+Drykkjuskapurinn lagðist niður. Í heimi eintóms hryllings er enga vona að finna og Neville er búinn að missa alla von. En í því ástandi finnur hann frið. Það að jarða hundinn tók ekki á hann því með hundinum gróf hann vonina. Það eina sem hægt er að gera er að vinna svo Neville fer og heldur ótrauður áfram.
+
+Ári áður hafði trúarnöttari dregið Neville af götunni á trúarsamkomu. Þar sá hann hvernig fólkið var í trans og saman trúði það öllu sem presturinn pretikaði. Nú hringlaði þessi minnig í hausnum á Neville því þessi trú sem deildist meðal fólsksins útskýrði margt. Sumar vampírur þoldu ekki krossa en aðrar ekki kóraninn eða torah. Aðrar ekki rennandi vatn eða spegla. Þetta voru draugar frá fyrra lífi. Sálrænir kvillar vampíranna.
+
+# Þriðji hluti: Júní 1978
+
+## Fimtándi kafli
+27 jan 2020
