@@ -32,7 +32,7 @@ permalink:    pretty
 # paginate:     5
 
 # Build settings
-theme: jekyll-theme-heidi
+# theme: jekyll-theme-heidi
 plugins:
   - jekyll-feed
 
