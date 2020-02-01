@@ -114,3 +114,37 @@ Drykkjuskapurinn lagðist niður. Í heimi eintóms hryllings er enga vona að f
 
 ## Fimtándi kafli
 27 jan 2020
+
+Það eru rúmlega tvö ár búin að líða síðan hundurinn dó. Neville virðist vera kominn með "sálarró" og er búinn að sætta sig við stöðuna. Þessi dagur, líkt og flestir dagar, gekk út á að leita að Cortman. Í miðri leitinni, í fjarskanum, sá hann konu. Hann trúði því varla og kallaði því til hennar. Við ópin hljóp hún í burtu. Neville brunar til hennar á meðan hún flýr en hann nær að grípa í hana. Hún reynir að hrifsa sig í burtu en hann dregur hana inn í húsið sitt. Hún heitir Ruth.
+
+## Sextándi kafli
+1 feb 2020
+
+Næsti dagur. Hann þurfti að læsa hana inni í herberginu sínu því hún varð sturðluð af hræðslu eftir að hann dróg hana inn í húsið sitt. "Er hún sýkt?" er það eina sem hann getur hugsað. Þegar hún loks vaknar og kemur fram þá tala þau saman. Hann spyr hana um fjölskylduna sína og hvernig hún hafi lifað af. Hann treystir henni ekki. Hún segist hafa búið með manninum sínum frekar nálægt. Hvernig gat hann Neville samt aldrei hafa séð nér heyrt í þeim? Neville hefur loksins náð ró en nú er kona komin í líf hanns. Hann er fullur efasemdar en hann vill ekki drepa hana nema hann sé viss um að hún sé vampíra. Þau spjalla fram að kvöldmat og hún ætlar að arka út en hann segir henni að hún geti það ekki. Vampírurnar eru komnar á kreik.
+
+## Sautjándi kafli
+1 feb 2020
+
+Yfir kvöldmat talar hann við hana um vampírurnar og hún spyr hann um allskonar. Muninn á lifandi og dauðum vampírum. Hann segist ekki skilja hvernig þau sem eru enn lifandi geti verið lifandi, það eru meira en þrjú ár síðan sjúkdómurinn byrjaði að breiðast út. Hann segir henni frá því hvernig hann komst að því hvernig hann gæti aflífað vampírur sem væru "lifandi" en í kóma á daginn. Henni hryllir við því og hún spyr hvernig hann geti mögulega drepið þær en hann útskýrir fyrir henni að þær verði á endanum eins og dauðu vampírurnar og ráfi um og drepi allt sem fyrir þeim verði. Neville vill skoða blóðið í henni en hún grátbiður hann um að skoða það um morguninn. Hann reynir að útskýra fyrir henni að hann muni ekki meiða hana ef hún sé með vampírugerilinn en hún nær að fá hann til að smaþyggja að skoða blóðið um morguninn.  
+
+## Átjándi kafli
+1. feb 2020
+
+Neville vaknar við martröð um Virginiu, hann hoppar upp úr sófanum öskrandi "Virge!". Í myrkrinu heyrir hann í Ruth, hún segir "þetta er bara ég". Hún er fullklædd. Afhverju er hún fullklædd. Ætlaði hún að fara út? Um miðja nótt? Hún reynir að hugga hann og hann segir henni frá því að hann hafi jarðað Virginiu en tvemur dögum síðar hafi hún komið aftur og hann hafi þurft að drepa hana með viðarstjaka. Gríma hefur í sálu hanns völd. Þau sitja í örmum hvors annars. Neville stendur upp og dregur hana inn í næsta herbergi að skoða blóðið í henni undir smásjá. Hún grátbiður hann um að gera það ekki en hann reynir að segja henni að hvað sem kemur út úr því þá mun hann ekki meiða hár á höfði hennar. Er hann horfir niður smásjáinn er hann rotaður.
+
+## Nítjandi kafli
+1. feb 2020
+
+Hann rankar við sér, útidyrahurðin er opin og það er bréf á borðinu hanns. Bréfið er frá Ruth. Í því viðurkennir hún að hún sé njósnari og næstum allt sem hún sagði honum var lygi. Hún segir honum að hún vilji að hann lesi bréfið því hann sé í hættu. "lifandi" vampírurnar eru byrjaðar að reyna að byggja upp samfélagið á ný. Þau séu búnar að finna upp aðferðir til að geta verið í dagsljósi stóran hlut af degi. Hún segir honum frá því að hún hafi verið gift en Neville hafi komið inn um miðjan dag og drepið manninn hennar. Hún biður hann um að flýja húsið og koma sér upp í fjöllin eða einhvert burt, því samfélagið hennir hati hann og muni mögulega vilja drepa hann og þá sem eru eins og hann.
+
+# Fjórði hluti: Janúar 1979
+
+## Tuttugasti kafli
+1. feb 2020
+
+Þeir komu að nóttu til. Neville heyrir þegar bílar keyra að húsinu hanns. Út um glæju-gluggann horfir hann á jakkafataklæddar "lifandi" vampírur stíga út úr bílunum sínum og skjóta niður brjáluðu vampírurnar sem voru fyrir utan hjá honum. Hann sér Cortman flýja upp á þakið á húsið og hann heyrir þegar hann klifrar ofan í strompinn á húsinu sínu. Neville var búinn að leita út um allt af Cortman í mörg ár og hann faldi sig strompinum hanns. Jakkafataklæddu-vampírurnar skjóta Cortman. Neville var búinn að ákveða að hann ætlaði ekki að berjast við hið nýa samfélag heldur ætlaði hann að leyfa þeim að taka sig. Hann vildi sjá hvernig réttlæti þetta samfélag hefði búið til. Jakkafataklæddu-vampírurnar ganga upp að hurðinni hanns en byrja svo að skjóta á hurðina hanns. Ætla þær að drepa Neville? Neville panikkar og flýr inn í svefnherbergið sitt og leggst upp í rúmið með skambyssu í hendinni. Það verður stuttur skotbardagi, Neville er skotinn í búkinn en lifir. Þeir draga hann út í bíl.
+
+## Tuttugasti og fyrsti kafli
+1. feb 2020
+
+Neville vaknar sárþjáður í herbegi, það eru rimlar á glugganum. Hann veit hvar hann er. Ruth kemur inn, hún er orðinn háttsettur aðili í samfélaginu. Hún segir honum að þau ætli að taka hann af lífi en hún gefur honum tvær töflur svo hann geti endað líf sitt sjálfur. Hún fer. Þrátt fyrir sársaukann nær hann að skrölta að glugganum og hann horfir út og það er stór hópur af fólki búinn að safnast fyrir utan fangelsið. Ein vampíran tekur eftir honum og svo allar vampírurnar og það grafarþögn leggst yfir hópinn. Á þeirri sekúndu áttar Neville sig á því að það eru vampírurnar sem eru hræddar við hann. Hann getur ekki annað en hlegið. Hringurinn hefur verið fullkomnaður. Vampírurnar voru þjóðsagan sem terroriseraði hina lifandi og nú var hann orðinn þjóðsagan sem terroriseraði þær. Hann er þjóðsagan.   
