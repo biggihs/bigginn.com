@@ -36,6 +36,16 @@ layout: default
             <img src="/assets/images/amazon.15x.png" />
           </a>
         </span>
+        {% else if book.link %}
+        <span class="amazon">
+          <a target="_blank" href="{{ book.link }}">
+            {% if book.icon %}
+            <img src="/assets/images/{{ book.icon }}" />
+            {% else %}
+            <span> Linkur <span/>
+            {% endif %}
+          </a>
+        </span>
         {% endif %}
       </div>
     </div>
