@@ -6,6 +6,7 @@ permalink: /books/book/:title.html
 description: This is a description of the book
 amazon_link: https://www.amazon.com/Sailor-Who-Fell-Grace-Sea/dp/0679750150/ref=sr_1_1?keywords=The+Sailor+Who+Fell+from+Grace+with+the+Sea&qid=1578035298&sr=8-1
 author_link: https://en.wikipedia.org/wiki/Yukio_Mishima
+order_number: 1
 ---
 
 # The sailor who fell from grace from the sea.

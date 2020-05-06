@@ -6,9 +6,11 @@ permalink: /books/book/:title.html
 description: Samansafn af góðum limrum eftir Braga
 link: https://www.mbl.is/greinasafn/grein/1316050/
 icon: mbl.15x.png
+order_number: 4
 ---
 
-# Limrur fyrir landann
+# Limrur fyrir landann   
+24 Apríl 2020
 
 Er ég sat upp í bústað, skyldaður í kvarantín, fann ég þessa skemmtilegu bók. Eftir að hafa lesið hana ákvað ég að reyna að semja eina slíka. Þetta er afraksturinn.
 

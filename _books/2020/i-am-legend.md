@@ -6,6 +6,7 @@ permalink: /books/book/:title.html
 description: This is a description of the book
 amazon_link: https://www.amazon.com/I-Am-Legend/dp/B000V5QJC2/ref=sr_1_1?keywords=i+am+legend+book&qid=1578736172&sr=8-1
 author_link: https://en.wikipedia.org/wiki/Richard_Matheson
+order_number: 2
 ---
 
 # I am legend

@@ -9,10 +9,10 @@ layout: default
 <h3>Bækurnar</h3>
 
 <div class="books">
-  {% assign books = site.books | reverse %}
+  {% assign books = site.books | sort: "order_number" | reverse %}
   {% for book in books %}
     {% if book.title != 'Index' %}
-    <div class="book">
+    <div class="book" order_number="{{book.order_number}}">
       <span class="name">
         <strong>
           <a href="{{ book.url }}"> {{ book.title }} </a>
